@@ -21,7 +21,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/event"
 	"sigs.k8s.io/controller-runtime/pkg/handler"
 
-	"github.com/operator-framework/operator-lib/handler/internal/metrics"
+	"github.com/piccobit/operator-lib/handler/internal/metrics"
 )
 
 // InstrumentedEnqueueRequestForObject wraps controller-runtime handler for

@@ -39,7 +39,7 @@ var _ predicate.Predicate = NoGenerationPredicate{}
 //			ctrl "sigs.k8s.io/controller-runtime"
 //			"sigs.k8s.io/controller-runtime/pkg/event"
 //			ctrlpredicate "sigs.k8s.io/controller-runtime/pkg/predicate"
-//			libpredicate "github.com/operator-framework/operator-lib/predicate"
+//			libpredicate "github.com/piccobit/operator-lib/predicate"
 //
 //			"github.com/example/my-operator/api/v1alpha1"
 //		)
