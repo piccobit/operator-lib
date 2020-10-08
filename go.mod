@@ -8,8 +8,8 @@ require (
 	github.com/prometheus/client_golang v1.0.0
 	github.com/prometheus/client_model v0.2.0
 	github.com/stretchr/testify v1.5.1 // indirect
-	k8s.io/api v0.18.4
-	k8s.io/apimachinery v0.18.4
-	k8s.io/client-go v0.18.4
-	sigs.k8s.io/controller-runtime v0.6.1
+	k8s.io/api v0.18.6
+	k8s.io/apimachinery v0.18.6
+	k8s.io/client-go v0.18.6
+	sigs.k8s.io/controller-runtime v0.6.3
 )
